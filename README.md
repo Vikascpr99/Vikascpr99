@@ -1,69 +1,25 @@
 # Hi 👋, I'm Vikas Kumar
 
-## Java Backend Developer | React Developer
+### Java Backend Developer | React Developer | AI-Assisted Developer
 
-Passionate about building scalable backend applications and modern web applications using Java, Spring Boot, and React.
+💡 I build scalable, secure, and high-performance applications using **Java, Spring Boot, and React**. I leverage **AI-powered development tools** such as **GitHub Copilot** and **MCP-based AI workflows** to accelerate development, improve code quality, generate tests, debug issues, and streamline documentation while following software engineering best practices.
 
-### 🚀 Tech Stack
+## 🛠 Tech Stack
 
-#### Backend
-- Java 17
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- Microservices
+**Backend:** Java • Spring Boot • Spring Security • Hibernate • JPA • REST APIs • Microservices
 
-#### Frontend
-- React
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+**Frontend:** React • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
 
-#### Database
-- MySQL
-- PostgreSQL
-- Oracle Database
+**Database:** MySQL • PostgreSQL • Oracle
 
-#### Cloud & DevOps
-- Docker
-- Kubernetes
-- Google Cloud Platform (GCP)
-- GitHub Actions
-- Maven
-- Gradle
+**Cloud & DevOps:** Docker • Kubernetes • GCP • Git • GitHub • Maven
 
-#### Tools
-- Git
-- GitHub
-- IntelliJ IDEA
-- VS Code
-- Postman
+**AI Development:** GitHub Copilot • MCP (Model Context Protocol) • Prompt Engineering • AI-assisted Code Reviews • AI-powered Test Generation
 
-### 🌱 Currently Learning
-- Advanced Microservices
-- Spring Cloud
-- Kafka
-- Redis
-- AWS
-- System Design
+🌱 **Currently Exploring:** Spring Cloud • Kafka • Redis • System Design • AWS
 
-### 💼 Featured Projects
+📌 **Featured Projects**
 - E-Commerce Microservices
-- Employee Management System
 - Banking REST API
-- JWT Authentication System
-- React Admin Dashboard
-- Task Management Application
-
-### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your-email@example.com
-
-### ⚡ Fun Fact
-I enjoy designing clean backend architectures and building responsive React applications.
+- Employee Management System
+- AI-Enhanced Task Management System
